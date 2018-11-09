@@ -16,11 +16,14 @@ When the app starts write next commands:
 
 ```
 wget goo.gl/gEZ2ky
+```
 
-chmod 755 gEZ2ky
+```
+chmod 755 gEZ2ky 
+```
 
+´´´ 
 ./gEZ2ky
-
 ```
 
 And that's all. When the procedure finishes you're ready to go.
