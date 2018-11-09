@@ -22,7 +22,7 @@ wget goo.gl/gEZ2ky
 chmod 755 gEZ2ky 
 ```
 
-´´´ 
+```
 ./gEZ2ky
 ```
 
