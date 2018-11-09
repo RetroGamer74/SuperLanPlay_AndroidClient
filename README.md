@@ -50,6 +50,10 @@ The app will be running and even you kill termux it won't die. So you will have 
 
 Now you can run Termux again, and just type the ./switch or ./ps4 command. You don't need to do any extra step. Just run one of those commands, and then select the number of your network interface.
 
+VIDEO
+
+https://youtu.be/rCxpaKPVcHc
+
 # CREDITS
 
 The lan-play app is developed by imspace and its own github is located at:
